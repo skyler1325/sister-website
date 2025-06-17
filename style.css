@@ -1,0 +1,12 @@
+body {
+  background: #35d1ec;
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  color: rgb(250, 114, 2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; /* This ensures child elements stack vertically */
+  font-family: 'Indie Flower', cursive;
+}
